@@ -24,7 +24,17 @@
             <!-- Container wrapper -->
             <div class="container-fluid">
               <!-- Toggle button -->
-             
+              <button
+                class="navbar-toggler"
+                type="button"
+                data-mdb-target="#navbarCenteredExample"
+                aria-controls="navbarCenteredExample"
+                aria-expanded="false"
+                aria-label="Toggle navigation"
+              >
+                <i class="fas fa-bars"></i>
+              </button>
+
               <!-- Collapsible wrapper -->
               <div
                 class="collapse navbar-collapse justify-content-center"

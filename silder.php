@@ -25,15 +25,6 @@
         <div class="text-white">
           <h1 class="mb-3">A DAY WITH THE BOSS</h1>
           <h5 class="mb-4">With the Esteemed CEO</h5>
-          <a
-            class="btn btn-outline-light btn-lg m-2"
-            href="https://www.enterthehealingschool.org/"
-            role="button"
-            rel="nofollow"
-            target="_blank"
-            >Click here
-            </a
-          >
         </div>
       </div>
     </div>

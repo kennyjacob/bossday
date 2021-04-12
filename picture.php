@@ -7,10 +7,9 @@
                       <div class="card" style="width: 23rem;">
                         <img src="img/s10.jpg" class="card-img-top" alt="...">
                           <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
+                            <h5 class="card-title">A DAY WITH THE BOSS</h5>
                             <p class="card-text">
-                              Some quick example text to build on the card title and make up the bulk of the
-                              card's content.
+                              According to Ray Kroc, "The quality of a leader is reflected in the standards they set for themselves." The high standards you set for yourself are an inspiration to our team. Thank you! 
                             </p>
                            
                           </div>
@@ -21,10 +20,9 @@
                       <div class="card" style="width: 23rem;">
                         <img src="img/s6.jpg" class="card-img-top" alt="...">
                           <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
+                            <h5 class="card-title">A DAY WITH THE BOSS</h5>
                             <p class="card-text">
-                              Some quick example text to build on the card title and make up the bulk of the
-                              card's content.
+                              According to Ray Kroc, "The quality of a leader is reflected in the standards they set for themselves." The high standards you set for yourself are an inspiration to our team. Thank you! 
                             </p>
                           
                           </div>
@@ -35,10 +33,9 @@
                       <div class="card" style="width: 23rem;">
                         <img src="img/s10.jpg" class="card-img-top" alt="...">
                           <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
+                            <h5 class="card-title">A DAY WITH THE BOSS</h5>
                             <p class="card-text">
-                              Some quick example text to build on the card title and make up the bulk of the
-                              card's content.
+                              According to Ray Kroc, "The quality of a leader is reflected in the standards they set for themselves." The high standards you set for yourself are an inspiration to our team. Thank you! 
                             </p>
                             
                           </div>
@@ -56,10 +53,9 @@
                       <div class="card" style="width: 23rem;">
                         <img src="img/s6.jpg" class="card-img-top" alt="...">
                           <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
+                            <h5 class="card-title">A DAY WITH THE BOSS</h5>
                             <p class="card-text">
-                              Some quick example text to build on the card title and make up the bulk of the
-                              card's content.
+                              According to Ray Kroc, "The quality of a leader is reflected in the standards they set for themselves." The high standards you set for yourself are an inspiration to our team. Thank you! 
                             </p>
                             
                           </div>
@@ -70,10 +66,9 @@
                       <div class="card" style="width: 23rem;">
                         <img src="img/s10.jpg" class="card-img-top" alt="...">
                           <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
+                            <h5 class="card-title">A DAY WITH THE BOSS</h5>
                             <p class="card-text">
-                              Some quick example text to build on the card title and make up the bulk of the
-                              card's content.
+                              According to Ray Kroc, "The quality of a leader is reflected in the standards they set for themselves." The high standards you set for yourself are an inspiration to our team. Thank you! 
                             </p>
                       
                           </div>
@@ -84,10 +79,9 @@
                       <div class="card" style="width: 23rem;">
                         <img src="img/s6.jpg" class="card-img-top" alt="...">
                           <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
+                            <h5 class="card-title">A DAY WITH THE BOSS</h5>
                             <p class="card-text">
-                              Some quick example text to build on the card title and make up the bulk of the
-                              card's content.
+                              According to Ray Kroc, "The quality of a leader is reflected in the standards they set for themselves." The high standards you set for yourself are an inspiration to our team. Thank you! 
                             </p>
                            
                           </div>

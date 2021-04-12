@@ -24,7 +24,7 @@
       <div class="d-flex justify-content-center align-items-center h-100">
         <div class="text-white">
           <h1 class="mb-3">A DAY WITH THE BOSS</h1>
-          <h5 class="mb-4">Esteemed CEO<br><small>Director of the Healing School & ISM, Lagos Zone 5</small></h5>
+          <h5 class="mb-4">Esteemed CEO<br><span><small>Director of the Healing School & ISM, Lagos Zone 5</small></span></h5>
         </div>
       </div>
     </div>

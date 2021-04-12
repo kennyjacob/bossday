@@ -18,7 +18,7 @@
   <div
     id="intro-example"
     class="p-5 text-center bg-image"
-    style="background-image: url('img/s7.jpg');"
+    style="background-image: url('img/s10.jpg');"
   >
     <div class="mask" style="background-color: rgba(0, 0, 0, 0.7);">
       <div class="d-flex justify-content-center align-items-center h-100">

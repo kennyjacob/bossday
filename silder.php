@@ -27,7 +27,7 @@
           <h5 class="mb-4">With the Esteemed CEO</h5>
           <a
             class="btn btn-outline-light btn-lg m-2"
-            href="https://www.youtube.com/watch?v=c9B4TPnak1A"
+            href="#"
             role="button"
             rel="nofollow"
             target="_blank"

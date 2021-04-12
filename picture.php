@@ -1,6 +1,6 @@
  
               <div class="container">
-                <h4 style="text-align: center;">PICTURE HIGHLIGHT</h4>
+                <h4 style="text-align: center; margin-top: 20px;">PICTURE HIGHLIGHT</h4>
                 <div class="d-flex align-items-start bg-light mb-3">
                   <div class="row" style="margin-top: 20px;">
                     <div class="col-md-4 col-sm-4">

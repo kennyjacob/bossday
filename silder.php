@@ -26,6 +26,9 @@
           <h1 class="mb-3">A DAY WITH THE BOSS</h1>
           <h5 class="mb-4">Esteemed CEO</h5>
           <i>Director of the Healing School & ISM, Lagos Zone 5</i>
+          <a class="btn btn-outline-light btn-lg" href="insert.php" role="button"
+            >Sign up</a
+          >
         </div>
       </div>
     </div>

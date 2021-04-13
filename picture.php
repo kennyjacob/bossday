@@ -81,7 +81,7 @@
                           <div class="card-body">
                             <h5 class="card-title">A DAY WITH THE BOSS</h5>
                             <p class="card-text">
-                              According to Ray Kroc, "The quality of a leader is reflected in the standards they set for themselves." The high standards you set for yourself are an inspiration to our team. Thank you! 
+                              According to Ray Kroc, "The quality of a leader is reflected in the standards they set for themselves." The high standards you set for yourself are an inspiration to our team. Thank you!  
                             </p>
                            
                           </div>
